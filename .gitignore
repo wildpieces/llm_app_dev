@@ -73,4 +73,7 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg 
+
+# Etc.
 .python-versions
+results/

@@ -75,5 +75,5 @@ var/
 *.egg 
 
 # Etc.
-.python-versions
+.python-version
 results/
